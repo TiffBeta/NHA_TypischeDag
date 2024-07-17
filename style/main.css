@@ -1,0 +1,102 @@
+div.inleiding {
+    background-color:azure;
+    width: 60%;
+    }
+
+h1.inleiding {
+    font-weight: bold;
+}
+
+footer {
+    width: 60%;
+    background-color:aliceblue;
+}
+
+
+table {
+    border: 1px dotted;
+    width: 60%;
+    border-color: black;
+    text-align: center;
+}
+
+th {
+    border: 1px solid;
+    text-align: center;
+    font-weight: bold;
+    width: 15%;
+}
+
+td {
+    width: 15%;
+}
+
+
+#dagdeel {
+    background-color: bisque;
+}
+
+#activiteit {
+    background-color: coral;
+}
+
+#onderdeel {
+    background-color: darksalmon;
+}
+
+#humeur {
+    background-color: indianred;
+}
+
+#ochtend {
+    background-color: darkkhaki;
+}
+
+#middag {
+    background-color: goldenrod;
+}
+
+#avond {
+    background-color: tan;
+}
+
+#huishouden {
+    background-color: brown;
+}
+
+#slapen {
+    background-color: maroon;
+}
+
+#afwas {
+    background-color: firebrick;
+}
+
+#werk {
+    background-color: lightpink;
+}
+
+#bed {
+    background-color: tomato;
+}
+
+#smileyDroevig {
+    background-color: thistle;
+}
+
+#smileyMeh {
+    background-color: rosybrown;
+}
+
+#smileyBlij {
+    background-color:palevioletred ;
+}
+
+#auto {
+    background-color: bisque;
+}
+
+a:hover {
+    color: rgb(7, 124, 87);
+}
+
